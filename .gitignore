@@ -1,0 +1,18 @@
+# Created by gmogas
+
+# IntelliJ folders and files
+/.idea/
+/git-your-wordpress-using-composer.iml
+
+# Composer folders and files
+/composer.lock
+/vendor/
+
+# WordPress core files
+/public/wp/
+
+# WordPress upload files folder
+/public/wp-content/uploads/
+
+# WordPress main configuration file
+/public/wp-config.php
